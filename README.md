@@ -22,6 +22,8 @@
 [Apache NiFi](https://nifi.apache.org/) is an easy to use, powerful, and
 reliable system to process and distribute data.
 
+## 说明
+  此版本forked apache/nifi版本为 1.7.0，所有的修改只针对1.7.0
 ## Table of Contents
 
 - [Features](#features)
